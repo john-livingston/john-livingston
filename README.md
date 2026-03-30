@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Young exoplanets, orbital dynamics, & atmospheres. Led Nature 2026 paper on V1298 Tau. Bayesian + JAX. More [here](https://john-livingston.github.io/).
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=john-livingston&count_private=true&show_icons=true&theme=tokyonight) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-livingston&theme=tokyonight&hide=html&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-livingston&repo=limbdark&theme=tokyonight)](https://github.com/john-livingston/limbdark) -->
